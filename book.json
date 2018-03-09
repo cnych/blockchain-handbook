@@ -5,8 +5,7 @@
     "author": "阳明",
     "links": {
         "sidebar": {
-            "阳明的博客": "https://blog.qikqiak.com",
-            "Python微服务实战": "https://tdd.qikqiak.com"
+            "阳明的博客": "https://blog.qikqiak.com"
         }
     },
     "plugins": [
@@ -14,6 +13,7 @@
         "github",
         "codesnippet",
         "splitter",
+        "simple-page-toc",
         "page-toc-button",
         "image-captions",
         "back-to-top-button",
@@ -37,8 +37,12 @@
         "github": {
             "url": "https://github.com/cnych/blockchain-handbook"
         },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
         "image-captions": {
-            "caption": "图片 - _CAPTION_"
+            "caption": "_CAPTION_"
         },
         "github-buttons": {
             "repo": "cnych/blockchain-handbook",
