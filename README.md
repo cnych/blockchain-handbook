@@ -159,5 +159,5 @@ $ gitbook pdf ./ ./gitbook.pdf
 
 ## 社区&读者交流
 
-- **微信群**：`区块链六点半`，扫描我的微信二维码，[阳明](https://blog.qikqiak.com/about)，或直接搜索微信号*iEverything*后拉您入群，请增加备注（姓名-公司/学校/博客/社区/研究所/机构等）。
+- **微信群**：`区块链六点半`，扫描我的微信二维码，[阳明](https://blog.qikqiak.com/page/about/)，或直接搜索微信号*iEverything*后拉您入群，请增加备注（姓名-公司/学校/博客/社区/研究所/机构等）。
 
