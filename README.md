@@ -4,6 +4,6 @@
 
 区块链共享价值体系首先被众多的加密货币效仿，并在工作量证明上和算法上进行了改进，如采用权益证明和 SCrypt 算法。随后，区块链生态系统在全球不断进化，出现了首次代币发售**ICO**；智能合约区块链以太坊；“轻所有权、重使用权”的资产代币化共享经济；和区块链国家。目前，人们正在利用这一共享价值体系，在各行各业开发去中心化电脑程序(Decentralized applications, Dapp)，在全球各地构建去中心化自主组织和去中心化自主社区(Decentralized autonomous society, DAS)。
 
-在线浏览地址：https://www.qikqiak.com/hugo-handbook
+在线浏览地址：https://blockchain.qikqiak.com
 
 Github地址：https://github.com/cnych/blockchain-handbook
