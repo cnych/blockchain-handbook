@@ -1,0 +1,64 @@
+{
+    "title": "区块链学习实践手册",
+    "description": "本书记录了本人从零开始学习区块链的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够和大家一起为区块链的发展做出贡献。",
+    "language": "zh-hans",
+    "author": "阳明",
+    "links": {
+        "sidebar": {
+            "阳明的博客": "https://blog.qikqiak.com",
+            "Python微服务实战": "https://tdd.qikqiak.com"
+        }
+    },
+    "plugins": [
+        "prism", "prism-themes", "-highlight",
+        "github",
+        "codesnippet",
+        "splitter",
+        "page-toc-button",
+        "image-captions",
+        "back-to-top-button",
+        "-lunr", "-search", "search-plus",
+        "github-buttons@2.1.0",
+        "favicon@^0.0.2",
+        "tbfed-pagefooter@^0.0.1",
+        "theme-default",
+        "3-ba",
+        "ga"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+            ]
+        },
+        "github": {
+            "url": "https://github.com/cnych/blockchain-handbook"
+        },
+        "image-captions": {
+            "caption": "图片 - _CAPTION_"
+        },
+        "github-buttons": {
+            "repo": "cnych/blockchain-handbook",
+            "types": ["star"],
+            "size": "small"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © qikqiak.com 2018",
+            "modify_label": "Updated: ",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "favicon": {
+            "shortcut": "favicon.ico",
+            "bookmark": "favicon.ico"
+        },
+        "3-ba": {
+            "token": "xxxxxxxx"
+        },
+        "ga": {
+            "token": "UA-XXXX-Y"
+        }
+    }
+}
